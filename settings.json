@@ -1,1 +1,230 @@
 
+Zhakas
+zhakas_77
+Online
+﻿
+This is the start of the #〢💮ㆍᴍɪɴᴇᴄʀᴀꜰᴛ-ѕᴛᴀꜰꜰㆍ channel. 
+DBGAMING — 7/28/26, 6:11 PM
+nano /var/www/pterodactyl/resources/views/templates/wrapper.blade.php
+<link rel="stylesheet" href="/custom_theme.css">
+php artisan view:clear
+php artisan cache:clear
+nano /var/www/pterodactyl/public/custom_theme.css
+php artisan view:clear && php artisan cache:clear
+/* ========================================================
+   UNIVERSAL DIRECT TARGET GLOW UI THEME (DB GAMING V3)
+   ======================================================== */
+
+/* 1. Global Background Fix (With Semi-Transparent 3D Background Overlay) */
+html, body, #app {
+
+ui.txt
+4 KB
+DBGAMING — 8/3/26, 4:37 PM
+nano /var/www/pterodactyl/resources/views/templates/wrapper.blade.php
+<!-- MINECLOUD REACT-SPA COMPATIBLE THEME ENGINE (REAL-TIME DOM OVERRIDE) -->
+<style id="minecloud-dynamic-theme">
+#theme-customizer-btn {
+    position: fixed !important;
+    bottom: 25px !important;
+    right: 25px !important;
+
+html.txt
+9 KB
+nano /var/www/pterodactyl/public/custom_theme.css
+/* ========================================================
+   UNIVERSAL DIRECT TARGET GLOW UI THEME (DB GAMING)
+   ======================================================== */
+
+/* 1. Global Background Fix (With Semi-Transparent 3D Background Overlay) */
+html, body, #app {
+
+MINECLOUD (V5 3D LIVE.txt
+9 KB
+php artisan view:clear && php artisan cache:clear
+DBGAMING — 8/7/26, 8:29 PM
+bash <(curl -s https://pterodactyl-installer.se/)
+sudo lsof -i :8080
+sudo kill -9
+wings
+DBGAMING — 8/18/26, 11:22 AM
+https://github.com/dipbendu1/afk-bot-aternos
+GitHub
+GitHub - dipbendu1/afk-bot-aternos
+Contribute to dipbendu1/afk-bot-aternos development by creating an account on GitHub.
+Contribute to dipbendu1/afk-bot-aternos development by creating an account on GitHub.
+const mineflayer = require('mineflayer');
+const { Movements, pathfinder, goals } = require('mineflayer-pathfinder');
+const { GoalBlock } = goals;
+const config = require('./settings.json');
+const express = require('express');
+const http = require('http');
+
+index.js.txt
+31 KB
+{
+  "name": "AFK Bot",
+  "bot-account": {
+    "username": "DbgamingLive",
+    "password": "",
+    "type": "offline"
+
+settings.json.txt
+2 KB
+https://railway.com/
+Railway
+Railway | The all-in-one intelligent cloud provider
+Railway is a full-stack cloud for deploying web apps, servers, databases, and more with automatic scaling, monitoring, and security.
+Railway | The all-in-one intelligent cloud provider
+DBGAMING — 8/22/26, 7:56 PM
+nano /var/www/pterodactyl/public/custom_theme.css
+/* ========================================================
+   EXCLUSIVE ADMIN PANEL - ULTRA UNIQUE NEON GLASS UI
+   ======================================================== */
+
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@600;700;800;900&family=Plus+Jakarta+Sans:wght@500;600;700;800&display=swap');
+
+Admin-Only CSS Code.txt
+9 KB
+php artisan view:clear && php artisan cache:clear
+nano /var/www/pterodactyl/resources/views/layouts/admin.blade.php
+<link rel="stylesheet" href="/custom_theme.css?v=1.0">
+cd /var/www/pterodactyl
+php artisan view:clear
+php artisan config:clear
+chown -R www-data:www-data /var/www/pterodactyl/*
+> /var/www/pterodactyl/resources/views/templates/wrapper.blade.php
+nano /var/www/pterodactyl/resources/views/templates/wrapper.blade.php
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>{{ config('app.name', 'Pterodactyl') }}</title>
+
+        @section('meta')
+
+html.txt
+27 KB
+php artisan view:clear
+php artisan cache:clear
+DB GAMING — 9/27/26, 4:29 PM
+git clone https://github.com/evilsaad0-hash/vps-deploy-bot-v1.git
+cd vps-deploy-bot-v1
+chmod +x install.sh
+sudo ./install.sh
+https://discord.com/developers/applications
+!create 1 1 1
+DB GAMING — 9/30/26, 10:26 PM
+ https://deepnote.com/
+ sudo su
+apt update
+apt install neofetch -y 
+DB GAMING — 10/3/26, 9:38 PM
+git clone https://github.com/dipbendu1/vps-deploy-bot-v1.git
+cd vps-deploy-bot-v1
+chmod +x install.sh
+sudo ./install.sh
+https://discord.com/developers/applications
+!create 1 1 1
+lxc list
+lxc delete db-v2-vps-1503252968802222110-1 --force
+DB GAMING — 10/12/26, 6:45 PM
+ https://labs.2z2.top/user
+ sudo su
+cd 
+apt update 
+apt install fastfetch 
+fastfetch
+﻿
+{
+  "name": "AFK Bot",
+  "bot-account": {
+    "username": "DbgamingLive",
+    "password": "",
+    "type": "offline"
+  },
+  "server": {
+    "ip": "example.aternos.me",
+    "port": 25565,
+    "version": "1.21.1"
+  },
+  "position": {
+    "enabled": true,
+    "x": 0,
+    "y": 100,
+    "z": 0
+  },
+  "utils": {
+    "auto-auth": {
+      "enabled": true,
+      "password": "Perzuu"
+    },
+    "anti-afk": {
+      "enabled": true,
+      "sneak": true
+    },
+    "chat-messages": {
+      "enabled": true,
+      "repeat": true,
+      "repeat-delay": 500,
+      "messages": [
+        "I'm a regular player",
+        "Subscribe to Perzaan Gaming!",
+        "I like to play Minecraft!"
+      ]
+    },
+    "chat-log": true,
+    "auto-reconnect": true,
+    "auto-reconnect-delay": 2000,
+    "max-reconnect-delay": 20000,
+    "periodic-rejoin": {
+      "enabled": false,
+      "min-interval": 20,
+      "max-interval": 60
+    }
+  },
+  "movement": {
+    "enabled": true,
+    "circle-walk": {
+      "enabled": true,
+      "radius": 4,
+      "speed": 3000
+    },
+    "look-around": {
+      "enabled": true,
+      "interval": 5000
+    },
+    "random-jump": {
+      "enabled": true,
+      "interval": 10000
+    }
+  },
+  "modules": {
+    "avoidMobs": true,
+    "combat": true,
+    "beds": true,
+    "chat": true,
+    "console-commands": true
+  },
+  "combat": {
+    "attack-mobs": true,
+    "auto-eat": true
+  },
+  "beds": {
+    "pick-up-day": true,
+    "place-night": true
+  },
+  "discord": {
+    "enabled": true,
+    "webhookUrl": "https://discord.com/api/webhooks/1472567640521183243/7DzSIaCSM_9-5DjzrlAuP9Tdj7Y3yAP6BHg3scKzhaRFdVk8ctWBlhOc7I8l5xC6Nqm3",
+    "events": {
+      "connect": true,
+      "disconnect": true,
+      "chat": false
+    }
+  },
+  "chat": {
+    "respond": true
+  }
+}
+settings.json.txt
+2 KB
